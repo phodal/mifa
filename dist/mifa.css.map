@@ -1,0 +1,1 @@
+{"version":3,"sources":["mifa.css"],"names":[],"mappings":"AAAA;;;EAGE,oBAAoB;CACrB","file":"mifa.css","sourcesContent":["*,\n*:after,\n*:before {\n  box-sizing: inherit;\n}\n"]}
