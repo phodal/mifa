@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box
+}
+
+html,body {
+	height: 100%;
+	-webkit-overflow-scrolling: touch
+}
+
+.preload * {
+	transition: none !important
+}
+
+.color-example {
+	padding: 5px;
+	width: 50%;
+	text-indent: 50%;
+	white-space: nowrap;
+	margin: 0 0 15px 0
+}
+
+.pattern-example {
+	margin: 0 0 40px 0
+}
+
+.width-wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+	position: relative;
+	padding: 0 20px
+}
