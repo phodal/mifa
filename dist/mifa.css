@@ -21,6 +21,21 @@
   background-color: #d1d8df;
 }
 
+.green {
+  color: #1abc9c;
+  background-color: #1abc9c;
+}
+
+.dark-grey {
+  color: #5e6772;
+  background-color: #5e6772;
+}
+
+.blue {
+  color: #23B7F3;
+  background-color: #23B7F3;
+}
+
 *,
 *:after,
 *:before {
@@ -73,18 +88,18 @@ h2 {
 }
 
 h3 {
-  font-size: 2.4rem;
+  font-size: 2.8rem;
   line-height: 1.3;
 }
 
 h4 {
-  font-size: 2.0rem;
+  font-size: 2.4rem;
   letter-spacing: -.08rem;
   line-height: 1.35;
 }
 
 h5 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   letter-spacing: -.05rem;
   line-height: 1.5;
 }
