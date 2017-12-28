@@ -20,7 +20,7 @@
   "devDependencies": {
     "autoprefixer": "^6.5.4",
     "ava": "^0.17.0",
-    "backstopjs": "^2.3.5",
+    "backstopjs": "^3.0.32",
     "banner-cli": "^0.11.0",
     "browser-sync": "^2.18.5",
     "editorconfig-tools": "^0.1.1",
