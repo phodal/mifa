@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="65px" viewBox="0 0 56 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>mifa</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mifa" transform="translate(0.000000, 1.000000)">
+            <circle id="Oval" stroke="#D1D8DF" stroke-width="0.1" fill="#1ABC9C" cx="50.5" cy="4.5" r="4.5"></circle>
+            <path d="M0.71875,12.09375 L10.7890572,12.09375 L25.7001787,55.9790887 L40.505297,12.09375 L50.4696009,12.09375 L50.4696009,14 L50.4696009,15 L50.4696009,16.5 L50.4696009,64 L43.7913972,64 L43.7913972,33.3650655 C43.7913972,32.3050279 43.8149532,30.550103 43.862066,28.1002383 C43.9091788,25.6503735 43.9327349,23.0238752 43.9327349,20.2206646 L29.1276166,64 L22.1667376,64 L7.25561607,20.2206646 L7.25561607,21.8107131 C7.25561607,23.0827582 7.28506111,25.0202424 7.34395209,27.6232237 C7.40284307,30.226205 7.43228812,32.1401331 7.43228812,33.3650655 L7.43228812,64 L0.71875,64 L0.71875,12.09375 Z" id="M" fill="#384452"></path>
+        </g>
+    </g>
+</svg>

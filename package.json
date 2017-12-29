@@ -43,7 +43,7 @@
     "autoprefixer": "postcss -u autoprefixer --no-map.inline --autoprefixer.browsers \"last 1 versions\" -r dist/*.css",
     "banner": "banner-cli dist/*.css",
     "watch": "onchange src -- run-p build",
-    "serve": "browser-sync start --no-notify -s test --ss dist -f dist",
+    "serve": "browser-sync start --no-notify -s docs --ss dist -f dist",
     "backstop": "run-s build && run-p serve compare",
     "reference": "backstop reference --configPath=backstop.conf.js",
     "compare": "backstop test --configPath=backstop.conf.js",
