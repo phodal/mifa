@@ -1,7 +1,7 @@
 # mifa
 
 <h1 align="center">
-	<img width="400" src="https://phodal.github.io/mifa/mifa.svg" alt="Mifa">
+	<img width="200" src="https://phodal.github.io/mifa/mifa.svg" alt="Mifa">
 	<br>
 	<br>
 </h1>
