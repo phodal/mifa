@@ -1,5 +1,11 @@
 # mifa
 
+<h1 align="center">
+	<img width="400" src="https://phodal.github.io/mifa/mifa.svg" alt="Mifa">
+	<br>
+	<br>
+</h1>
+
 do re **mi** **fa** sol la si
 
 Goal: One UI for Phodal's Projects
