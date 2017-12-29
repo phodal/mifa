@@ -110,4 +110,18 @@ h6 {
   line-height: 1.4;
 }
 
+.container {
+  margin: 0 auto;
+  max-width: 112.0rem;
+  padding: 0 2.0rem;
+  position: relative;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
 /*# sourceMappingURL=mifa.css.map */

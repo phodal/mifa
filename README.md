@@ -28,9 +28,10 @@ Techincal Detail
 Thanks to
 ---
 
+boilerplate based on: [https://github.com/milligram/milligram](https://github.com/milligram/milligram)
+
  - [Setting Up a Design System – Design + Sketch](https://medium.com/sketch-app-sources/setting-up-a-design-system-8729510def93) 
  - [Setup a design system](https://blog.prototypr.io/design-system-ac88c6740f53)
- - [https://github.com/milligram/milligram](https://github.com/milligram/milligram)
 
 License
 ---

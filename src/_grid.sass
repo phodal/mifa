@@ -1,0 +1,21 @@
+
+// Grid
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+// .container is main centered wrapper with a max width of 112.0rem (1120px)
+.container
+  margin: 0 auto
+  max-width: 112.0rem
+  padding: 0 2.0rem
+  position: relative
+  width: 100%
+
+// Using flexbox for the grid, inspired by Philip Walton:
+// http://philipwalton.github.io/solved-by-flexbox/demos/grids/
+// By default each .column within a .row will evenly take up
+// available width, and the height of each .column with take
+// up the height of the tallest .column in the same .row
+.row
+  display: flex
+  flex-direction: column
+  padding: 0
