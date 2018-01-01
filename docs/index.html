@@ -594,6 +594,31 @@
 		</div>
 	</section>
 
+	<section class="container" id="code-highlight">
+		<h5 class="title">Code Highlight Theme</h5>
+		<hr>
+		<div class="example">
+<pre><code>(function() {
+  var input, output;
+  var converter = new showdown.Converter();
+
+  function updateOutput() {
+    output.innerHTML = converter.makeHtml(input.value);
+  }
+
+  document.addEventListener("DOMContentLoaded", function(event) {
+    input = document.getElementById('input');
+    output = document.getElementById('output');
+
+    input.addEventListener('input', updateOutput, false);
+    input.addEventListener('keydown', updateOutput, false);
+
+    updateOutput();
+  });
+})();</code></pre>
+		</div>
+	</section>
+
 	<section class="container" id="utilities">
 		<h5 class="title">Utilities</h5>
 		<hr>
