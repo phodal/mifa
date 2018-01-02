@@ -15,8 +15,9 @@
 }
 
 .header {
-	background-color: #f4f5f6;
-	padding-top: 1rem
+	background-color: #384452;
+	padding-top: 1rem;
+	color: #fff;
 }
 
 @media (min-width: 40rem) {
@@ -37,10 +38,6 @@
 	text-align: center
 }
 
-.header .title {
-	font-family: Gotham Rounded A, Gotham Rounded B, Helvetica Neue, Arial, sans-serif
-}
-
 .header .img {
 	height: 15rem;
 	margin-bottom: 2rem
@@ -48,8 +45,8 @@
 
 .header .img path {
 	animation: 3s a forwards;
-	fill: #384452;
-	stroke: #384452;
+	fill: #fff;
+	stroke: #fff;
 	stroke-dasharray: 38321;
 	stroke-miterlimit: 10;
 }
@@ -147,7 +144,7 @@
 .octocat {
 	border: 0;
 	color: #f4f5f6;
-	fill: #9b4dca;
+	fill: #5e6772;
 	height: 5.2rem;
 	position: fixed;
 	right: 0;

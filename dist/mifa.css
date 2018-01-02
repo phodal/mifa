@@ -1,5 +1,5 @@
 /*!
- * Mifa v0.0.1
+ * Mifa v0.2.0
  * https://github.com/phodal/mifa#readme
  *
  * Copyright (c) 2018 Phodal Huang
@@ -9,11 +9,6 @@
 .color-primary {
   color: #384452;
   background-color: #384452;
-}
-
-.color-primary-blue {
-  color: #29486B;
-  background-color: #29486B;
 }
 
 .color-grey {

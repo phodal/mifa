@@ -1,8 +1,8 @@
 {
   "name": "mifa",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "A UI Framework",
-  "main": "index.js",
+  "main": "dist/mifa.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phodal/mifa.git"
