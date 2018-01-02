@@ -1,5 +1,4 @@
-
-// Blockquote
+// blockquote
 // ––––––––––––––––––––––––––––––––––––––––––––––––––
 
 blockquote
@@ -10,3 +9,15 @@ blockquote
 
   *:last-child
     margin-bottom: 0
+
+q
+  &:before
+    color: $color-green
+    content: open-quote
+    font-size: 4em
+    line-height: 0.1em
+    margin-right: 0.25em
+    vertical-align: -0.4em
+
+  &:after
+    content: none
