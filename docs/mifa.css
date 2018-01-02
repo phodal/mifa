@@ -2,7 +2,7 @@
  * Mifa v0.0.1
  * https://github.com/phodal/mifa#readme
  *
- * Copyright (c) 2017 Phodal Huang
+ * Copyright (c) 2018 Phodal Huang
  * Licensed under the MIT license
  */
 
@@ -85,6 +85,19 @@ blockquote {
 
 blockquote *:last-child {
   margin-bottom: 0;
+}
+
+q:before {
+  color: #1abc9c;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+q:after {
+  content: none;
 }
 
 .button,
