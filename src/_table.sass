@@ -5,6 +5,18 @@ table
   border-spacing: 0
   width: 100%
 
+table thead th,
+thead th
+  border-top: .1rem solid $color-grey
+  background: $color-light-grey
+
+tbody
+  tr
+    &:nth-child(even)
+      background: $color-light-grey
+    &:nth-child(odd)
+      background: $color-code-grey
+
 td,
 th
   border-bottom: .1rem solid $color-grey
