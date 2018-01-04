@@ -293,12 +293,12 @@ select:focus {
 }
 
 select {
-  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="14" viewBox="0 0 29 14" width="29"><path fill="%235e6772" d="M9.37727 3.625l5.08154 6.93523L19.54036 3.625"/></svg>') center right no-repeat;
+  background: url('data:image/svg+xml;utf8,<svg width="28" height="15" viewBox="0 0 28 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><polygon fill="%235e6772" id="Shape" points="14.3216327 0 7.99510204 5.87878267 1.67836735 0.00773727648 0 1.56757221 7.99510204 9 16 1.55983494"></polygon></svg>') center right no-repeat;
   padding-right: 3.0rem;
 }
 
 select:focus {
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="14" viewBox="0 0 29 14" width="29"><path fill="%231abc9c" d="M9.37727 3.625l5.08154 6.93523L19.54036 3.625"/></svg>');
+  background-image: url('data:image/svg+xml;utf8,<svg width="28" height="15" viewBox="0 0 28 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><polygon fill="%231abc9c" id="Shape" points="14.3216327 0 7.99510204 5.87878267 1.67836735 0.00773727648 0 1.56757221 7.99510204 9 16 1.55983494"></polygon></svg>');
 }
 
 textarea {
@@ -572,6 +572,20 @@ ul {
 table {
   border-spacing: 0;
   width: 100%;
+}
+
+table thead th,
+thead th {
+  border-top: 0.1rem solid #d1d8df;
+  background: #fdfdfd;
+}
+
+tbody tr:nth-child(even) {
+  background: #fdfdfd;
+}
+
+tbody tr:nth-child(odd) {
+  background: #eef1f5;
 }
 
 td,
