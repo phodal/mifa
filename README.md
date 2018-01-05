@@ -12,24 +12,20 @@ Goal: One UI for Phodal's Projects
 
 Features
 
- - better markdown for read
+ - GitHub Pages Theme ([mifa-jekyll](https://github.com/phodal/mifa-jekyll)
  - [brand UI](https://github.com/phodal/brand)
  - background Generate
 
-Support Platform (planning) :
+Todo:
 
- - Jekyll Theme for GitHub Pages
+ - UI Elements (done)
+ - better markdown for read (done)
+ - GitHub Pages Theme (doing, [mifa-jekyll](https://github.com/phodal/mifa-jekyll)
+ - UI Components
  - E-Book in GitHub
  - Website: https://www.phodal.com, https://www.wandianshenme.com
- - Mobile APP (React Native)
- - WeApp
- - ...
-
-Techincal Detail
-
- - npm, bower install
- - GitHub Pages install
- - CDN
+ - Mobile APP UI (React Native)
+ - WeApp UI
 
 Thanks to
 ---
