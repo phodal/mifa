@@ -12,15 +12,15 @@ Goal: One UI for Phodal's Projects
 
 Features
 
+ - better markdown for read (done)
+ - UI Framework (done)
+ - 微信公众号编辑器（done，[http://md.phodal.com/](http://md.phodal.com/))
  - GitHub Pages Theme ([mifa-jekyll](https://github.com/phodal/mifa-jekyll)
  - [brand UI](https://github.com/phodal/brand)
- - background Generate
 
 Todo:
 
- - UI Elements (done)
- - better markdown for read (done)
- - GitHub Pages Theme (doing, [mifa-jekyll](https://github.com/phodal/mifa-jekyll)
+ - background Generate
  - UI Components
  - E-Book in GitHub
  - Website: https://www.phodal.com, https://www.wandianshenme.com
