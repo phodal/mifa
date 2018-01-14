@@ -6,14 +6,12 @@
 	<br>
 </h1>
 
-do re **mi** **fa** sol la si
-
-Goal: One UI for Phodal's Projects
+> Mifa Design 是一个服务于个人的设计体系。基于『易读性』 和『一致化』 的设计价值观，让 Markdown 作者能专注于写作。
 
 Features
 
  - better markdown for read (done)
- - UI Framework (done)
+ - UI Framework ([mifa](https://github.com/phodal/mifa))
  - 微信公众号编辑器（done，[http://md.phodal.com/](http://md.phodal.com/))
  - GitHub Pages Theme ([mifa-jekyll](https://github.com/phodal/mifa-jekyll)
  - [brand UI](https://github.com/phodal/brand)
