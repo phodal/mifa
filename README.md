@@ -8,6 +8,8 @@
 
 > Mifa Design 是一个服务于个人的设计体系。基于『易读性』 和『一致化』 的设计价值观，让 Markdown 作者能专注于写作。
 
+Mifa 之所以称为 Mifa Design，只是因为它的缩写是 MD。并不是为了和 Ant Design 齐名，只是用于为我的（@phodal）网站、博客、APP、小程序等等，提供一个一致化的 UI 及阅读体验。
+
 Features
 
  - better markdown for read (done)
