@@ -13,19 +13,18 @@ Mifa 之所以称为 Mifa Design，只是因为它的缩写是 MD。并不是为
 Features
 
  - better markdown for read (done)
- - UI Framework ([mifa](https://github.com/phodal/mifa))
+ - UI Framework (done，[mifa](https://github.com/phodal/mifa))
  - 微信公众号编辑器（done，[http://md.phodal.com/](http://md.phodal.com/))
- - GitHub Pages Theme ([mifa-jekyll](https://github.com/phodal/mifa-jekyll)
- - [brand UI](https://github.com/phodal/brand)
+ - GitHub Pages Theme (done，[mifa-jekyll](https://github.com/phodal/mifa-jekyll)
 
 Todo:
 
- - background Generate
- - UI Components
- - E-Book in GitHub
- - Website: https://www.phodal.com, https://www.wandianshenme.com
- - Mobile APP UI (React Native)
- - WeApp UI
+ - background Generate（doing）
+ - UI Components（doing）
+ - E-Book in GitHub（Done）
+ - Website: https://www.phodal.com, https://www.wandianshenme.com （todo）
+ - Mobile APP UI (React Native)（todo）
+ - WeApp UI（todo）
 
 Thanks to
 ---
