@@ -24,7 +24,7 @@ Todo:
  - background Generate（doing）
  - UI Components（doing）
  - E-Book in GitHub（Done）
- - https://www.phodal.com（Done）
+ - https://www.phodal.com （Done）
  - https://www.wandianshenme.com （todo）
  - Mobile APP UI (React Native)（todo）
  - WeApp UI（todo）
