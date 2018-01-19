@@ -10,6 +10,8 @@
 
 Mifa 之所以称为 Mifa Design，只是因为它的缩写是 MD。并不是为了和 Ant Design 齐名，只是用于为我的（@phodal）网站、博客、APP、小程序等等，提供一个一致化的 UI 及阅读体验。
 
+相关文档：[Mifa Design：一个服务于 Markdown 的设计体系](https://www.phodal.com/blog/mifa-design-atomic-design-a-markdown-design/)
+
 Features
 
  - better markdown for read (done)
@@ -22,7 +24,8 @@ Todo:
  - background Generate（doing）
  - UI Components（doing）
  - E-Book in GitHub（Done）
- - Website: https://www.phodal.com, https://www.wandianshenme.com （todo）
+ - https://www.phodal.com（Done）
+ - https://www.wandianshenme.com （todo）
  - Mobile APP UI (React Native)（todo）
  - WeApp UI（todo）
 
