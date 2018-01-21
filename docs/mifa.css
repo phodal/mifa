@@ -595,16 +595,6 @@ th {
   text-align: left;
 }
 
-td:first-child,
-th:first-child {
-  padding-left: 0;
-}
-
-td:last-child,
-th:last-child {
-  padding-right: 0;
-}
-
 u {
   text-decoration: none;
   border-bottom: 1px dashed;
