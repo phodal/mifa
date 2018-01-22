@@ -542,6 +542,10 @@ ul {
   list-style: circle inside;
 }
 
+ul li {
+  color: #384452;
+}
+
 .button,
 button,
 dd,
