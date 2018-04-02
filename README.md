@@ -17,15 +17,12 @@ Features
  - better markdown for read (done)
  - UI Framework (done，[mifa](https://github.com/phodal/mifa))
  - 微信公众号编辑器（done，[http://md.phodal.com/](http://md.phodal.com/))
- - GitHub Pages Theme (done，[mifa-jekyll](https://github.com/phodal/mifa-jekyll)
+ - GitHub Pages Theme (done，[mifa-jekyll](https://github.com/phodal/mifa-jekyll))
 
 Todo:
 
  - background Generate（doing）
  - UI Components（doing）
- - E-Book in GitHub（Done）
- - https://www.phodal.com （Done）
- - https://www.wandianshenme.com （todo）
  - Mobile APP UI (React Native)（todo）
  - WeApp UI（todo）
 
